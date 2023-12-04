@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando como freelancer<br>👯 Quero aprender a programar melhor \o/<br>🤝 Disposto a contribuir em projetos<br>🌱 Atualmente aprendendo Javascript<br><br>
+🌱 Atualmente aprendendo Javascript<br><br>
 
 
 ## 🌐 Socials:
