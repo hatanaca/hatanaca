@@ -1,21 +1,63 @@
-# 💫 About Me:
-🌱 Atualmente aprendendo Javascript<br><br>
+# 👋 Olá, eu sou o Thiago
 
+Sou **estudante de desenvolvimento full stack**, com foco em **Laravel, Vue.js e Docker**.  
+Atualmente estou aprofundando meus estudos em **CI/CD, testes automatizados e boas práticas de backend**.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hatanaca ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thiago.silvahatanaka/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thiagohatanaka/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-silva-hatanaka-463383141/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hatanaca&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hatanaca&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hatanaca&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+🎯 Objetivo: atuar como **Desenvolvedor Júnior** e evoluir profissionalmente em ambientes reais de produção.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hatanaca&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tecnologias que estudo e utilizo
+
+### Frontend
+- HTML5, CSS3, JavaScript
+- Vue.js (Vue 3)
+- TypeScript (em estudo)
+
+### Backend
+- PHP
+- Laravel (APIs REST, autenticação, middlewares)
+
+### Banco de Dados
+- PostgreSQL
+- MySQL
+
+### DevOps / Infra
+- Docker & Docker Compose
+- Nginx
+- Git & GitHub
+- GitHub Actions (CI/CD)
+
+### Outros conhecimentos
+- Linux
+- Redes (conceitos fundamentais)
+- Lógica de Programação
+- Estruturas de Dados (em estudo)
+
+---
+
+## 🧪 Qualidade de código e CI/CD
+- Pipelines com GitHub Actions
+- Lint e análise estática
+- Build de frontend e backend
+- Testes (unitários e integração – em aprendizado contínuo)
+
+---
+
+## 📌 Projetos em destaque
+🔹 **Full Stack API**
+- Backend: Laravel + PostgreSQL
+- Frontend: Vue 3 + TypeScript
+- Autenticação com Sanctum
+- Ambiente dockerizado com Nginx
+
+🔹 **Estudos em CI/CD**
+- Pipelines de qualidade
+- Separação por ambientes
+- Segurança básica (scan de vulnerabilidades)
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/SEU-USUARIO
+- LinkedIn: (se tiver, coloque aqui)
