@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou o Thiago
 
-Sou **estudante de desenvolvimento full stack**, com foco em **Laravel, Vue.js e Docker**.  
-Atualmente estou aprofundando meus estudos em **CI/CD, testes automatizados e boas práticas de backend**.
+Sou Estudante de desenvolvimento full stack, com foco em backend.  
+Experiência prática com Laravel, Vue.js e Docker, e estudos contínuos em CI/CD, testes e boas práticas.
 
-🎯 Objetivo: atuar como **Desenvolvedor Júnior** e evoluir profissionalmente em ambientes reais de produção.
 
 ---
 
@@ -59,5 +58,5 @@ Atualmente estou aprofundando meus estudos em **CI/CD, testes automatizados e bo
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/SEU-USUARIO
-- LinkedIn: (se tiver, coloque aqui)
+- GitHub: https://github.com/hatanaca
+- LinkedIn: https://www.linkedin.com/in/thiago-silva-hatanaka-463383141/
