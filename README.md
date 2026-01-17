@@ -58,5 +58,6 @@ Experiência prática com Laravel, Vue.js e Docker, e estudos contínuos em CI/C
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/hatanaca
+- e-mail: thiagohatanaka18@gmail.com
+- Telefone: +55 (16) 99293-9773
 - LinkedIn: https://www.linkedin.com/in/thiago-silva-hatanaka-463383141/
